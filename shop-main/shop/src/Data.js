@@ -1,0 +1,88 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Denim Košulja",
+    price: 45,
+    desc: "Sjajna opcija za svečane prilike.",
+    img: "images/slika-11.jpg",
+    
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Košulja Sa Kengurovima",
+    price: 100,
+    desc: "Odličan izbor za ljetne prilike.",
+    img: "images/slika-22.jpg",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Funeral Košulja",
+    price: 45,
+    desc: "Ubistvena košulja za sprovod.",
+    img: "images/slika-33.jpg",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Lila Košulja",
+    price: 45,
+    desc: "Siguran izbor za osobe koje nisu sigurne šta žele.",
+    img: "images/slika-44.jpg",
+  },
+  {
+    id: "jfhgbvnscssd",
+    name: "Teget-Plava Košulja",
+    price: 40,
+    desc: "Perfektna opcija košulje sve prilike.",
+    img: "images/slika-55.jpg",
+  },
+  {
+    id: "jfhgbcssd",
+    name: "Plavo-Bijela Košulja",
+    price: 50,
+    desc: "Odluka s kojom ne možete pogriješiti.",
+    img: "images/slika-66.jpg",
+  },
+  {
+    id: "jfhgbvnsdsd",
+    name: "Rich Košulja",
+    price: 50,
+    desc: "Odličan spoj elegancije i udobnosti.",
+    img: "images/slika-77.jpg",
+  },
+  {
+    id: "jfvnscssd",
+    name: "Bijela Košulja",
+    price: 55,
+    desc: "Opcija koja zadovoljava sve kombinacije.",
+    img: "images/slika-88.jpg",
+  },
+  {
+    id: "jfhgbvnscstrsd",
+    name: "Winter Košulja",
+    price: 60,
+    desc: "Sjajan izbor za zimske prilike.",
+    img: "images/slika-99.jpg",
+  },
+  {
+    id: "jfhgbvnhjk",
+    name: "Jurassic Košulja",
+    price: 45,
+    desc: "Lijepa zelena košulja s kojom ne možete završiti neprimjećeni.",
+    img: "images/slika-10.jpg",
+  },
+  {
+    id: "jfhgasdafsd",
+    name: "Pink Košulja",
+    price: 50,
+    desc: "Idealna prilika za muškarce koji znaju šta žele.",
+    img: "images/slika-111.jpg",
+  },
+  {
+    id: "jfhfdfsd",
+    name: "Baby Blue Košulja",
+    price: 45,
+    desc: "Fenomenalan izbor za ostavljanje najboljeg prvog utiska.",
+    img: "images/slika-12.jpg",
+  },
+ 
+];
